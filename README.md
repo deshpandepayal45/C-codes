@@ -1,2 +1,4 @@
 # C-codes
-all c codes that i have learnt and implement..
+all c and data structure 
+codes that i have learnt and implement..
+
